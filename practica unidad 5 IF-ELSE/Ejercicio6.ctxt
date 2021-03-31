@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Ejercicio6
+comment1.params=a\ n1\ b\ n2\ c\ n3
+comment1.target=java.lang.String\ edades(java.lang.String,\ int,\ java.lang.String,\ int,\ java.lang.String,\ int)
+numComments=2
